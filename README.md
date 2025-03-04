@@ -16,7 +16,7 @@ This project provides a basic template for a restaurant website using HTML5 and 
 ## Getting Started
 
 1. Clone the repository using the command:
-git clone https://github.com/Toufik-Sam/your-repo-name.git
+git clone https://github.com/Toufik-Sam/Restaurant-Template.git
 2. Open the cloned directory in your preferred code editor.
 3. Open the `feast.html` file in a web browser to view the Home page.
 
