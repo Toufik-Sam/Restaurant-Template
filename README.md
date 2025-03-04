@@ -26,7 +26,11 @@ git clone https://github.com/Toufik-Sam/your-repo-name.git
 - `about.html`: About page
 - `menu.html`: Menu page
 - `styles.css`: Global CSS styles
-  
+
+![image alt](https://github.com/Toufik-Sam/Restaurant-Template/blob/master/MyFeastImage.PNG)
+![image alt](https://github.com/Toufik-Sam/Restaurant-Template/blob/master/MenuImage.PNG)
+![image alt](https://github.com/Toufik-Sam/Restaurant-Template/blob/master/MyAboutImage.PNG)
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
